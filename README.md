@@ -19,10 +19,9 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Quer falar comigo? Por favor entre em contato!
  
-<div> 
-  <a href="https://discord.gg/dZEAg3PD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div>   
   <a href = "mailto:gvittorazze@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovcarmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
